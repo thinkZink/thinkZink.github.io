@@ -34,10 +34,10 @@ kramdown:
 #
 owner:
   name: Sydney Zink
-  avatar: leonids-logo.png
+  avatar: Sydney_Zink.jpg
   job: "NLP Researcher"
   bio: "Project lead in Ellie Pavlick's Lunar Lab at Brown University."
-  email: "sydney underscore zink at brown dot edu"
+  email: "szink@cs.brown.edu"
   disqus-shortname:
   twitter: "@think_zink" #username
   facebook: #username
@@ -48,11 +48,11 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: "thinkzink" #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
-  skype: #username
+  skype: "syd.zink" #username
   xing: #username
   instagram: #username
   lastfm: #username
