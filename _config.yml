@@ -33,13 +33,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Sydney Zink
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  job: "NLP Researcher"
+  bio: "Project lead in Ellie Pavlick's Lunar Lab at Brown University."
+  email: sydney underscore zink at brown dot edu
   disqus-shortname:
-  twitter: #username
+  twitter: @think_zink #username
   facebook: #username
   google:
     plus: #username
