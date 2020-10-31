@@ -3,5 +3,5 @@
   image: pong.png
   github: https://github.com/thinkzinks
 
-  name: Derecho
-  descr: Paper in April 2019 ACM Transactions on Computer Systems <a>https://dl.acm.org/doi/10.1145/3302258 </a>
+- name: Derecho
+  descr: Paper in [April 2019 ACM Transactions on Computer Systems](https://dl.acm.org/doi/10.1145/3302258) </a>
