@@ -1,16 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name: Inspirit AI
+  link: http://www.inspiritai.com/
+  date: September 2020 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Instructor (Introduction to AI, Advanced Methods in Machine Learning)
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
+- name: Summer STEM Institute
+  link: http://www.summersteminstitute.org/
+  date: June 2020 - August 2020
+  job: Research Mentor
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+- name: Goldman Sachs
+  link: https://www.goldmansachs.com/
+  date: June 2016 - August 2016
+  job: Summer Technology Analyst
+
+- name: J.P. Morgan Chase & Co.
+  link: https://jpmorgan.com/
+  date: June 2015 - August 2015
+  job: Summer Technology Analyst
