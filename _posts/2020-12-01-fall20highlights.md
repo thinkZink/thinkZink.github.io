@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Fall 2020: COVID, Medical Shadowing, and a Very British Thanksgiving
-excerpt: "))"
+title: 'Fall 2020: COVID, Medical Shadowing, and a Very British Thanksgiving'
 categories: [reflection]
 comments: true
-
 ---
 
-## Fall '20 highlights:
+## Fall 2020 highlights:
 
 + Hospitalized! COVID-positive :(
 + Inspired by my hospitalization to begin medical shadowing and resume hospital volunteering (once available.) Shadowed a doctor in emergency medicine!

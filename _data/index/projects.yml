@@ -1,7 +1,7 @@
 - name: Irish Twitter
   descr: "Determining the persistence of Irish language usage on Twitter following account inception rates"
   image: pong.png
-  github: https://github.com/thinkzinks
+  github: https://github.com/thinkzink
 
 - name: Derecho
   descr: Paper in <a href="https://dl.acm.org/doi/10.1145/3302258" target="_blank">April 2019 ACM Transactions on Computer Systems</a>
